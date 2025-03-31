@@ -15,3 +15,5 @@ SiO2_full_vibro.aiida - Example: SiO2, full vibronic properties / plugins: aiida
 LiF_muons_sites.aiida - LiF muons in-app guide: sites / plugins: aiidalab_qe_muon
 LiF_muons_sites_polarization.aiida - LiF muons in-app guide: sites+polarization / plugins: aiidalab_qe_muon
 LiF_full_muons.aiida - Example: LiF muons, stopping sites and polarization function / plugins: aiidalab_qe_muon
+LiCoO2_bader_charge.aiida - Example: LiCoO2 Bader charge / plugins: aiida_bader
+H2O_bader_charge.aiida - Example: H2O Bader charge / plugins: aiida_bader
