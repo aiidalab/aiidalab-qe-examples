@@ -24,3 +24,4 @@ H2O_bader_charge.aiida - Example: H2O Bader charge / plugins: aiida_bader
 PtO_bader_charge.aiida - Example: PtO Bader charge / plugins: aiida_bader
 PtO2_bader_charge.aiida - Example: PtO2 Bader charge / plugins: aiida_bader
 C8H6_xps.aiida - Example: C8H6 XPS / plugins: aiida_qe_xspec
+Li2CO3_xas.aiida - Example: Li2CO3 XAS / plugins: aiida_qe_xspec
