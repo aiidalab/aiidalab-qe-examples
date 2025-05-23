@@ -1,17 +1,14 @@
-[
-  {
-    "name": "LiF_muons_sites.aiida",
+{
+  "LiF_muons_sites.aiida": {
     "label": "LiF muons in-app guide: sites",
     "description": ""
   },
-  {
-    "name": "LiF_muons_sites_polarization.aiida",
+  "LiF_muons_sites_polarization.aiida": {
     "label": "LiF muons in-app guide: sites+polarization",
     "description": ""
   },
-  {
-    "name": "LiF_full_muons.aiida",
+  "LiF_full_muons.aiida": {
     "label": "LiF muons, stopping sites and polarization function",
     "description": ""
   }
-]
+}

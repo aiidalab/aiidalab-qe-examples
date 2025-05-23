@@ -8,14 +8,13 @@ To add a new example, place the corresping AiiDA archive file (.aiida) in the `c
 
 ```json
 
-[
+{
     ...,
-    {
-        "name": "<name of the file>",
+    "<archive_name.aiida>": {
         "label": "<a short label to be used in an example selector>",
         "description": "<short description of what the user can expect from the example>",
     }
-]
+}
 ```
 
 ## Versioning

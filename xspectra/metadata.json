@@ -1,12 +1,10 @@
-[
-  {
-    "name": "C8H6_xps.aiida",
+{
+  "C8H6_xps.aiida": {
     "label": "C8H6 XPS",
     "description": ""
   },
-  {
-    "name": "Li2CO3_xas.aiida",
+  "Li2CO3_xas.aiida": {
     "label": "Li2CO3 XAS",
     "description": ""
   }
-]
+}

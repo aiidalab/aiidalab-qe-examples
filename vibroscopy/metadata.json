@@ -1,27 +1,22 @@
-[
-  {
-    "name": "Si_vibro_full.aiida",
+{
+  "Si_vibro_full.aiida": {
     "label": "Silicon phonons in-app guide: Full",
     "description": ""
   },
-  {
-    "name": "Si_vibro_phonons_ins.aiida",
+  "Si_vibro_phonons_ins.aiida": {
     "label": "Silicon phonons in-app guide: phonons+INS",
     "description": ""
   },
-  {
-    "name": "Si_vibro_raman_ir_dielectric.aiida",
+  "Si_vibro_raman_ir_dielectric.aiida": {
     "label": "Silicon phonons in-app guide: Raman+IR+dielectric",
     "description": ""
   },
-  {
-    "name": "GaAs_full_vibro.aiida",
+  "GaAs_full_vibro.aiida": {
     "label": "GaAs phonons in-app guide: Full",
     "description": ""
   },
-  {
-    "name": "SiO2_full_vibro.aiida",
+  "SiO2_full_vibro.aiida": {
     "label": "Example: SiO2, full vibronic properties",
     "description": ""
   }
-]
+}
