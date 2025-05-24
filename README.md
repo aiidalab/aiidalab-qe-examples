@@ -4,10 +4,9 @@ Collection of examples of core app features ready to be imported in the QE app.
 
 ## How to add new examples
 
-To add a new example, place the corresping AiiDA archive file (.aiida) in the `core` folder and add an entry in the `core/metadata.json` fill in the following format:
+To add a new example, place the AiiDA archive file (.aiida) in the `archives` folder and add a corresponding entry in the `examples.json` file in the following format:
 
-```json
-
+```
 {
     ...,
     "<archive_name.aiida>": {
@@ -17,11 +16,15 @@ To add a new example, place the corresping AiiDA archive file (.aiida) in the `c
 }
 ```
 
+#### Metadata format
+
+Using the archive filename `"<archive_name.aiida>"` as key simplifies metadata lookup, for example, displaying an example description on user selection.
+
 ## Versioning
 
 This repo will be tagged to mark its compatability with versions of the QE app.
 
-### Rules
+#### Rules
 
 - Modifying the structure of the repo requires a new tag
 - Updating existing examples requires a new tag
